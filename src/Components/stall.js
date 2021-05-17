@@ -4,7 +4,7 @@ import ImageMapper from 'react-image-mapper';
 import useWindowDimensions from '../Hooks/useWindowDimensions.js'
 //https://coldiary.github.io/react-image-mapper/
 //https://github.com/coldiary/react-image-mapper
-export const Stoisko = () => {
+export const Stall = () => {
   let { height, width } = useWindowDimensions();
   const imgWidth = 1920
   const imgHight = 1344

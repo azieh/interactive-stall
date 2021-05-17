@@ -1,12 +1,12 @@
 
 import './App.css';
-import {Stoisko} from './Components/Stoisko.js'
+import {Stall} from './Components/stall.js'
 
 function App() {
 
   return (
     <div className="App">
-      <Stoisko></Stoisko>
+      <Stall></Stall>
     </div>
   );
 }
